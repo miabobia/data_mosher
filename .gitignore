@@ -1,0 +1,12 @@
+/output/
+/output/*
+/video_test/
+/videos/
+/video_test/*
+/videos/*
+__pycache__/
+__pycache__/*
+misc.py
+*.mp4
+todo.md
+tmp
